@@ -45,3 +45,8 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+##5. Resultados
+Após a fazer o passo a passo, utilizar o dataset "dataset-1000-com-preco-promocional-e-renovacao-estoque.csv" e fazer uma analize com 1000 linhas, a predição de preço ficara inalterada quando houver mudanças na quantidade no estoque e só terá alguma alteração de preço com a mudança no ID_PRODUTO acima de valores de 1000 como observado na imagem a seguir que foi utilizada comparações de 500 e 1500 no valo do ID_PRODUTO 
+<img width="764" height="535" alt="image" src="https://github.com/user-attachments/assets/f7ecb83b-3669-45f1-838b-bc554de9cbe0" />
+
